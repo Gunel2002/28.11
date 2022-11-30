@@ -1,0 +1,8 @@
+C:\Users\GUNEL\source\repos\ProVed\ProVed\bin\Debug\ProVed.exe.config
+C:\Users\GUNEL\source\repos\ProVed\ProVed\bin\Debug\ProVed.exe
+C:\Users\GUNEL\source\repos\ProVed\ProVed\bin\Debug\ProVed.pdb
+C:\Users\GUNEL\source\repos\ProVed\ProVed\obj\Debug\ProVed.csproj.AssemblyReference.cache
+C:\Users\GUNEL\source\repos\ProVed\ProVed\obj\Debug\ProVed.csproj.SuggestedBindingRedirects.cache
+C:\Users\GUNEL\source\repos\ProVed\ProVed\obj\Debug\ProVed.csproj.CoreCompileInputs.cache
+C:\Users\GUNEL\source\repos\ProVed\ProVed\obj\Debug\ProVed.exe
+C:\Users\GUNEL\source\repos\ProVed\ProVed\obj\Debug\ProVed.pdb
